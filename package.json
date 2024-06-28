@@ -1,0 +1,15 @@
+{
+  "name": "denis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "limpiarcss": "purgecss --css ./css/styles.css --content *.html --output ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "purgecss": "^6.0.0"
+  }
+}

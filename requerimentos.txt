@@ -1,0 +1,1 @@
+-Simuladores: plazo fijo (chequear q funcione), caja de ahorro, prestamos, cambio de cheques. 
