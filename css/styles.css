@@ -1157,17 +1157,21 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
+  padding-top: 100px;
   padding-bottom: 6rem;
-  text-align: center;
+  display: flex;
+  text-align:end;
+  justify-content:end;
   color: #fff;
-  /* background-image: url("/img/mutual.jpg"); */
-  background-color: rgb(245, 115, 115) ;
+  background-image: url("/img/Logotipo_Mutual_page-0001-removebg-preview.png");
+  background-color: rgb(255, 255, 255) ;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
 }
+
+
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
